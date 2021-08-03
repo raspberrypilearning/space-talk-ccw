@@ -46,5 +46,3 @@ You can also 'remix' the project to make any changes you like. You could change 
 You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="\_blank"}.
 
 --- /collapse ---
-
---- save ---

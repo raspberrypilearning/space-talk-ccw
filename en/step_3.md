@@ -75,5 +75,3 @@ If you have time when you have finished your project, it is a good idea to add c
 **Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
 --- /task ---
-
---- save ---

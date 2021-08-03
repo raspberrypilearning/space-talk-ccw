@@ -44,5 +44,3 @@ Change the words and number of seconds in the `think`{:class="block3looks"} bloc
 **Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
 
 --- /task ---
-
---- save ---

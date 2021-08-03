@@ -72,5 +72,3 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 **Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block. Also, check that the sound is working on your computer or tablet.
 
 --- /task ---
-
---- save ---
