@@ -20,8 +20,8 @@ You will:
 ### Try it
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+<div style="flex-basis: 175px; flex-grow: 1">
+Below is a preview of what you'll be making. Click on the green flag to run the scene. Then click on each sprite to see what they do.
 
 What happens if you click on one sprite and then quickly click on another sprite?
 
