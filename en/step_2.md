@@ -78,19 +78,3 @@ Drag the **Pico** sprite to position them on the left-hand side of the Stage. Yo
 ![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
 --- /task ---
-
---- task ---
-
-If you are signed in to your Scratch account, type the name of your project in the project name box at the top of the screen.
-
-![The project name box.](images/project-name.png)
-
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
-
-Next, click on **File**, and then on **Save now** to save your project.
-
-![The 'File' menu options.](images/file-menu.png)
-
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
-
---- /task ---
