@@ -5,6 +5,7 @@
 You will get Nano to emote by switching **costumes**.
 
 Sprites have **costumes** to change the way that they look. To animate a sprite, you can change its costumes.
+
 </div>
 <div>
 ![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
@@ -23,10 +24,9 @@ Add the **Nano** sprite to your project from the **Fantasy** category.
 
 --- task ---
 
-Make sure that the **Nano** sprite is selected in the Sprite list below the Stage. 
+Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
 
 ![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
-
 
 Click on the **Code** tab and add a script to get the **Nano** sprite to `say`{:class="block3looks"} `Thanks!`:
 
@@ -38,6 +38,7 @@ switch costume to [nano-b v] // Nano talking
 say [Thanks!] for [2] seconds // try 1 instead of 2
 switch costume to [nano-a v] // Nano smiling
 ```
+
 --- /task ---
 
 **Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu.
@@ -50,12 +51,12 @@ switch costume to [nano-a v] // Nano smiling
 
 ### Nano uses sign language
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common sign for 'thank you' is **bringing your right hand up to your mouth**.
 </p>
 
-Nano will use sign language by switching costumes. 
+Nano will use sign language by switching costumes.
 
-You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you". 
+You can edit costumes for your sprites with the Paint editor. You will edit a costume of Nano to get them to sign "thank you".
 
 --- task ---
 

@@ -2,8 +2,8 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
-  
+A sprite can have code, costumes, and sounds to change the way that it looks and what it does.
+
 You will add code blocks to make Pico emote with words and sound when the sprite is clicked.
 </div>
 <div>
@@ -15,7 +15,7 @@ To use blocks, you can click on them in the Blocks menu.
 
 --- task ---
 
-Open the `Looks`{:class="block3looks"} blocks menu. 
+Open the `Looks`{:class="block3looks"} blocks menu.
 
 Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
@@ -57,13 +57,14 @@ say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
 --- /task ---
-  
+
 A comment is an explanation of what your code does.
-  
+
 ```blocks3
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-You will see comments in code examples. You don't need to add the comments when you add code to your project. 
+
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
 If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. To add a comment, right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 

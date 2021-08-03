@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will set up your project with a space backdrop and the first sprite. 
+In this step, you will set up your project with a space backdrop and the first sprite.
 </div>
 <div>
 ![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
@@ -11,7 +11,7 @@ In this step, you will set up your project with a space backdrop and the first s
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open a [new Scratch project](https://rpf.io/scratch-new){:target="\_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
@@ -93,7 +93,7 @@ If you are signed in to your Scratch account, type the name of your project in t
 
 ![The project name box.](images/project-name.png)
 
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects. 
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
 Next, click on **File**, and then on **Save now** to save your project.
 
@@ -102,4 +102,3 @@ Next, click on **File**, and then on **Save now** to save your project.
 If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 --- /task ---
-

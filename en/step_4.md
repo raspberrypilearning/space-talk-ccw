@@ -41,7 +41,7 @@ Play a few different sounds using the **Play** icons. Once you have found the so
 
 --- task ---
 
-Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block. 
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
 
 Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
 
@@ -53,7 +53,7 @@ Your code should look like this:
 
 ```blocks3
 when this sprite clicked
-+start sound [Alien Creak1 v] 
++start sound [Alien Creak1 v]
 say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
@@ -74,4 +74,3 @@ Check that your `start sound`{:class="block3sound"} block has your chosen sound 
 --- /task ---
 
 --- save ---
-

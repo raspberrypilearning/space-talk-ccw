@@ -10,7 +10,7 @@ Sprites can also use thought bubbles and change colours to show their personalit
 </div>
 
 --- task ---
-Add the **Giga** sprite. 
+Add the **Giga** sprite.
 
 Drag the **Giga** sprite to the right-hand side of the Stage.
 --- /task ---
@@ -23,7 +23,7 @@ Make sure that you have the **Giga** sprite selected in the Sprite list below th
 ```blocks3
 when this sprite clicked
 set [color v] effect to [0] // 0 is the starting colour
-think [Hmm...] for [2] seconds 
+think [Hmm...] for [2] seconds
 clear graphic effects // back to the starting colour
 ```
 
@@ -32,7 +32,7 @@ clear graphic effects // back to the starting colour
 **Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
 
 --- task ---
-Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like. 
+Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
 --- /task ---
 
 --- task ---
