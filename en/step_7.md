@@ -43,6 +43,6 @@ You can also 'remix' the project to make any changes you like. You could change 
 title: Completed project
 ---
 
-You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="\_blank"}.
+Scratch is the world's largest free coding community for kids. In the next projects on Scratch Island you'll be completing them on the Scratch website. For example, you can view the [completed Space Talk project here](https://scratch.mit.edu/projects/485673032/){:target="\_blank"}.
 
 --- /collapse ---
