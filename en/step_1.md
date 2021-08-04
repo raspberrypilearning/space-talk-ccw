@@ -6,6 +6,10 @@ In this project, you will create a space scene with characters that 'emote' to s
 <span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
 </p>
 
+To make this project we'll be using Scratch. Scratch uses blocks just like the ones you've seen on Home Island. But it also lets you create more interesting projects with your own artwork, sounds and characters.
+
+For now we'll learn Scratch here, in Code Club World. But later you can use the Scratch community to share your projects and remix others.
+
 In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
 You will:
