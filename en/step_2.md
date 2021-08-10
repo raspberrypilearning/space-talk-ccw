@@ -9,7 +9,7 @@ In this step, you will set up your project with a space backdrop and the first s
 </div>
 </div>
 
-Underneath this window is the Scratch editor. It looks like this:
+Behind this window is the Scratch editor. It looks like this:
 
 ![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
