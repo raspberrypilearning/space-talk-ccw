@@ -43,7 +43,7 @@ You can also 'remix' the project to make any changes you like. You could change 
 title: Completed project
 ---
 
-Scratch is the world's largest free coding community for kids. You'll be using the Scratch website to complete the next projects on Scratch Island.
+Scratch is the world's largest free coding community for kids. You'll be using the Scratch website to complete later projects on Scratch Island.
 
 You can view the [completed Space Talk project here](https://scratch.mit.edu/projects/485673032/){:target="\_blank"}.
 
